@@ -1,0 +1,2 @@
+<h2><?= $title ?></h2>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure aut consequuntur voluptatibus quasi nesciunt omnis repellendus animi nam vel, inventore, magnam mollitia, et enim ab! Laboriosam ullam corporis delectus voluptas.</p>
